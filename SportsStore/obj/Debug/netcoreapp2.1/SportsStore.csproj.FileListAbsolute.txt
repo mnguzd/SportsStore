@@ -14,3 +14,15 @@ C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netc
 C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
 C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.input.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.output.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.Views.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
