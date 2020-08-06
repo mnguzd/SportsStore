@@ -1,0 +1,16 @@
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.deps.json
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.json
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.dll
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfo.cs
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
